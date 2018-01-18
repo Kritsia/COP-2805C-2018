@@ -17,7 +17,7 @@
   <licenses>
     <license>
       <name>Apache 2</name>
-      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
       <distribution>repo</distribution>
       <comments>A business-friendly FOSS license</comments>
     </license>
@@ -25,7 +25,7 @@
 
    <organization>
      <name>COP-2805C - HCC</name>
-     <url>http://wpollock.com/</url>
+     <url>https://wpollock.com/</url>
    </organization>
 
    <developers>
@@ -33,9 +33,9 @@
        <id>wpollock</id>
        <name>Wayne Pollock</name>
        <email>pollock@acm.org</email>
-       <url>http://wpollock.com/</url>
+       <url>https://wpollock.com/</url>
        <organization>HCC</organization>
-       <organizationUrl>http://www.hccfl.edu/</organizationUrl>
+       <organizationUrl>https://www.hccfl.edu/</organizationUrl>
        <roles>
          <role>developer</role>
        </roles>

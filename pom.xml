@@ -91,9 +91,7 @@
           <configuration>
             <mainClass>mypkg.SayHello</mainClass>
             <arguments>
-            <!--
               <argument>foo</argument>
-            -->
             </arguments>
           </configuration>
         </plugin>
@@ -116,9 +114,11 @@
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-javadoc-plugin</artifactId>
         <version>3.0.0</version>
+        <!--
         <configuration>
           ...
         </configuration>
+        -->
       </plugin>
     </plugins>
   </reporting>

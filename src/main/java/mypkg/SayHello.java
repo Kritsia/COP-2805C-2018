@@ -28,6 +28,9 @@
 	        
 	        System.out.println("Hi everyone, my name is Ihor.");
 	        counter++;
+	        
+	        System.out.println("Kevin Mock here again, my code was erased from the Matrix =(:-O. Here is more! ");
+	        counter++;
 	
 	        System.out.println( "Number of students who edited this file: "
 	            + counter );

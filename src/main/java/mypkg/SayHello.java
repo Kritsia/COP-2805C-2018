@@ -26,6 +26,9 @@
 	        System.out.println("Hi everyone this is Juliet and I am editing this program.");
 	        counter++;
 	        
+	        System.out.println("Hello everyone! My name is Craig");
+	        counter++;
+	        
 	        System.out.println("Hi everyone, my name is Ihor.");
 	        counter++;
 	        

@@ -11,7 +11,7 @@
 	      * When done, displays a count of students who edited this file.
 	      * @param args - Unused
 	      */
-	    public static void main ( String [] args )
+	    public static void main( String[] args )
 	    {
 	        int counter = 0;
 	
@@ -30,7 +30,10 @@
 	        counter++;
 	        
 	        System.out.println("Hi everyone, my name is Jeff Moranville.");
-	        counter++;     
+	        counter++;    
+	        
+	        System.out.println("Hey, this is Zachary Willis, checking in!");
+	        counter++;
 	        
 	
 	        System.out.println( "Number of students who edited this file: "

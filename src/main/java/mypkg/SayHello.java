@@ -37,6 +37,9 @@
 	        
 	        System.out.println("Hello everyone! This is Karl Schmidt working hard!");
 	        counter++;
+	        
+	        System.out.println("Hey there, Zachary Willis checking in!");
+	        counter++;
 	
 	        System.out.println( "Number of students who edited this file: "
 	            + counter );

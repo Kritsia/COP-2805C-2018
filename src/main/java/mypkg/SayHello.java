@@ -40,6 +40,9 @@
 	        
 	        System.out.println("Hey there, Zachary Willis checking in!");
 	        counter++;
+	        
+	        System.out.println("What's going on class. This is Devan and I'm contributing.");
+	        counter++;
 	
 	        System.out.println( "Number of students who edited this file: "
 	            + counter );

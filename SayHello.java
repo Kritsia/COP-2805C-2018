@@ -1,4 +1,4 @@
-// Git collaborative COP-2805C (Java II) project.
+	// Git collaborative COP-2805C (Java II) project.
 	// $Id$
 	
 	package mypkg;
@@ -34,6 +34,8 @@
 	        
 	        System.out.println("Hey, this is Zachary Willis, checking in!");
 	        counter++;
+	        
+	        System.out.println("Hola classmates! This is Kritsia.")
 	        
 	
 	        System.out.println( "Number of students who edited this file: "

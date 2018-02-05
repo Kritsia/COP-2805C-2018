@@ -26,7 +26,7 @@
 	        System.out.println("Hi everyone this is Juliet and I am editing this program.");
 	        counter++;
 	        
-	        System.out.println("Hello everyone! My name is Craig");
+	        System.out.println("Hello everyone! My name is Craig. Um where am I, how did I get here?");
 	        counter++;
 	        
 	        System.out.println("Hi everyone, my name is Ihor.");
@@ -38,7 +38,16 @@
 	        System.out.println("Hello everyone! This is Karl Schmidt working hard!");
 	        counter++;
 	        
+	        System.out.println("Hello from Brian Loftus!");
+	        counter++;
+		
 	        System.out.println("Hey there, Zachary Willis checking in!");
+	        counter++;
+	        
+	        System.out.println("What's going on class. This is Devan and I'm contributing.");
+	        counter++;
+	        
+	        System.out.println("Hola classmates! This is Kritsia.");
 	        counter++;
 	
 	        System.out.println( "Number of students who edited this file: "
